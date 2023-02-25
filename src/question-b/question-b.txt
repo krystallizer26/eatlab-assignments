@@ -1,0 +1,2 @@
+B. Write a Data Definition Language (DDL) statement and a SQL query that retrieves the 
+top 5 products with the highest average rating, along with their category names.

@@ -1,0 +1,12 @@
+D. You have been tasked with designing a database schema for an e-commerce website 
+that sells products to customers. The website has the following requirements:
+- Customers should be able to create an account, log in, and update their personal 
+information such as name, email, and shipping address.
+- Products should have a name, description, price, and category. Products may belong to multiple categories.
+- Customers should be able to add products to their shopping cart and place an order.
+- Orders should have a unique identifier, a customer ID, a status (e.g. "pending", "shipped", "delivered"), 
+a total cost, and a list of products.
+- Each order should include the product name, quantity, and price at the time the order was placed.
+- Products should have an inventory quantity that is updated when an order is placed.
+- Customers should be able to leave reviews for products.
+Design a database schema that satisfies these requirements. Provide the SQL code to create the tables and any necessary constraints.
